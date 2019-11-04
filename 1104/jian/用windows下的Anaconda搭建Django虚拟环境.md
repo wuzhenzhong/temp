@@ -1,7 +1,5 @@
 # 用windows下的Anaconda搭建Django虚拟环境
 
-[![img](http://cdn2.jianshu.io/assets/default_avatar/3-9a2bcc21a5d89e21dafc73b39dc5f582.jpg)](https://www.jianshu.com/u/80644c56d548)
-
 [wx2007300875](https://www.jianshu.com/u/80644c56d548)关注
 
 0.1432018.02.07 23:13:59字数 1,328阅读 10,148

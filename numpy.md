@@ -22,4 +22,5 @@ ndarray
 
 数据类型
 
-- dtype
+- int
+- float

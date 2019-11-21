@@ -62,7 +62,7 @@ print (b)
 
 numpy.ndarray.flat 是一个数组元素迭代器，实例如下:
 
-## 实例
+#### 实例
 
 ```python
 import numpy as np

@@ -37,6 +37,7 @@ scipy
 - shift
 - rotate
 - zoom
+- gaussian_filter
 
 ### odr
 

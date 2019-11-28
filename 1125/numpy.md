@@ -104,3 +104,13 @@
 - vdot
 - inner
 - matmul
+- linalg
+  - det
+  - solve
+  - inv
+
+
+
+矩阵库
+
+- matlib
